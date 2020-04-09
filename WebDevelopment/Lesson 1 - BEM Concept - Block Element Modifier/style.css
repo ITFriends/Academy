@@ -1,0 +1,22 @@
+.main-block{
+    width: 100%;
+    height: 800px;
+    background-color: green;
+    text-align: center;
+}
+
+.main-block__element{
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    border-width: 2px;
+    border: solid;
+}
+
+.main-block__element--red{
+    background-color: red;
+}
+
+.main-block__element--grey{
+    background-color: grey;
+}
